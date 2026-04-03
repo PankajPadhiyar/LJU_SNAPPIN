@@ -1,0 +1,10 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=LJU_SNAP.SchDoc
+UniqueIDPath0=
+SheetNumber0=1
+
+
